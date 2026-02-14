@@ -1,54 +1,99 @@
 # Hi, I'm Shota Ruo 👋
 
-🎓 Studying Statistical Data Science  
-💻 Background in Frontend Development & Mobile App Creation  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shotacurtisruo&color=blueviolet" />
+</p>
+
+🎓 Statistical Data Science  
+💻 Frontend & Mobile Systems Engineering  
 🌐 Portfolio: https://shotacurtisruo.cc  
-📫 Email: shotacurtisruo@gmail.com  
+📫 shotacurtisruo@gmail.com  
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a Statistical Data Science student with experience in frontend development and mobile app creation.  
-I enjoy building data-driven applications that combine analytics with intuitive user interfaces.
+I build data-driven systems that connect statistical modeling with production-ready applications.
 
-My interests include:
-- Data analysis & statistical modeling
-- Machine learning
-- Interactive web applications
-- Mobile app development
-- Data visualization
+My work sits at the intersection of:
 
----
+- Statistical modeling & inference
+- Machine learning systems
+- Full-stack application development
+- Mobile-first product engineering
+- Human-centered data visualization
 
-## 🚀 Projects
-
-### 📊 Data Analysis Project
-- Performed exploratory data analysis using Python and Pandas
-- Built visualizations to uncover trends and insights
-- Applied statistical techniques for data interpretation
-
-### 🌐 Frontend Web Application
-- Developed responsive UI using modern frontend frameworks
-- Integrated APIs for dynamic content rendering
-- Focused on performance and clean UX design
-
-### 📱 Mobile App Project
-- Designed and developed a mobile application
-- Implemented core features and state management
-- Focused on usability and scalable architecture
+I care about performance, architecture, and elegant abstraction.
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Selected Projects
 
-**Languages:** Python, JavaScript, SQL  
-**Frontend:** React / HTML / CSS  
-**Mobile:** React Native / Typescript / Swift 
-**Data Tools:** Pandas, NumPy , R
-**Tools:** Git, VS Code, Jupyter Notebook, Cursor, Claude, Xcode
+### 📊 Statistical Modeling Engine
+- Built regression and classification pipelines using Python
+- Implemented cross-validation and hyperparameter tuning
+- Applied statistical diagnostics for model robustness
+- Focused on reproducibility and modular design
+
+### 🌐 Production-Ready Web Application
+- Built scalable frontend architecture using React
+- Designed API interaction layer and state management
+- Optimized rendering performance and UX flow
+- Implemented data visualization dashboards
+
+### 📱 Mobile Application System
+- Architected cross-platform mobile app
+- Integrated backend services and async data pipelines
+- Implemented local caching & state persistence
+- Focused on clean architecture principles
 
 ---
+
+## 🛠 Technical Stack
+
+**Languages**
+Python • JavaScript • TypeScript • SQL • R • Swift  
+
+**Data & ML**
+Pandas • NumPy • scikit-learn • Statsmodels • Matplotlib • Seaborn  
+
+**Frontend**
+React • HTML5 • CSS3 • Tailwind • Responsive Design  
+
+**Mobile**
+React Native • SwiftUI • Xcode  
+
+**Systems & Tooling**
+Git • VS Code • Jupyter • Cursor • Claude • REST APIs • SQLite  
+
+---
+
+## ⚡ Niche / Deep Interests
+
+- Monte Carlo simulation
+- Optimization & operations research
+- Applied probability systems
+- Performance profiling & algorithmic efficiency
+- Data pipeline design
+- Model interpretability (SHAP, feature attribution)
+- State management architecture in distributed apps
+- Clean abstraction layers in frontend systems
+
+---
+
+## 📈 GitHub Stats
+
+![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔬 Currently Exploring
+
+- Quantitative modeling
+- End-to-end ML deployment
+- Mobile-native data apps
+- High-performance Python
+
 
 ## 📈 GitHub Stats
 
