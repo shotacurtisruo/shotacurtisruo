@@ -55,7 +55,7 @@ I care about performance, architecture, and elegant abstraction.
 Python • JavaScript • TypeScript • SQL • R • Swift  
 
 **Data & ML**
-Pandas • NumPy • scikit-learn • Statsmodels • Matplotlib • Seaborn  
+Pandas • NumPy • Matplotlib  
 
 **Frontend**
 React • HTML5 • CSS3 • Tailwind • Responsive Design  
@@ -68,18 +68,6 @@ Git • VS Code • Jupyter • Cursor • Claude • REST APIs • SQLite
 
 ---
 
-## ⚡ Niche / Deep Interests
-
-- Monte Carlo simulation
-- Optimization & operations research
-- Applied probability systems
-- Performance profiling & algorithmic efficiency
-- Data pipeline design
-- Model interpretability (SHAP, feature attribution)
-- State management architecture in distributed apps
-- Clean abstraction layers in frontend systems
-
----
 
 ## 📈 GitHub Stats
 
@@ -89,14 +77,11 @@ Git • VS Code • Jupyter • Cursor • Claude • REST APIs • SQLite
 
 ## 🔬 Currently Exploring
 
-- Quantitative modeling
-- End-to-end ML deployment
-- Mobile-native data apps
-- High-performance Python
+- jobs
 
 
 ## 📈 GitHub Stats
 
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true)
 
 
