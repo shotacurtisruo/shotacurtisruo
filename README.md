@@ -66,12 +66,6 @@ React Native • SwiftUI • Xcode
 **Systems & Tooling**
 Git • VS Code • Jupyter • Cursor • Claude • REST APIs • SQLite  
 
----
-
-
-## 📈 GitHub Stats
-
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&theme=tokyonight)
 
 ---
 
