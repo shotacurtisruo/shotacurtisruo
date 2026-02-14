@@ -3,7 +3,7 @@
 🎓 Studying Statistical Data Science  
 💻 Background in Frontend Development & Mobile App Creation  
 🌐 Portfolio: https://shotacurtisruo.cc  
-📫 Email: scruo@ucdavis.edu  
+📫 Email: shotacurtisruo@gmail.com  
 
 ---
 
@@ -44,9 +44,9 @@ My interests include:
 
 **Languages:** Python, JavaScript, SQL  
 **Frontend:** React / HTML / CSS  
-**Mobile:** React Native / Flutter (replace with what you actually use)  
-**Data Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib  
-**Tools:** Git, VS Code, Jupyter Notebook  
+**Mobile:** React Native / Typescript / Swift 
+**Data Tools:** Pandas, NumPy , R
+**Tools:** Git, VS Code, Jupyter Notebook, Cursor, Claude, Xcode
 
 ---
 
