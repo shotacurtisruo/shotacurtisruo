@@ -73,9 +73,3 @@ Git • VS Code • Jupyter • Cursor • Claude • REST APIs • SQLite
 
 - jobs
 
-
-## 📈 GitHub Stats
-
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true)
-
-
