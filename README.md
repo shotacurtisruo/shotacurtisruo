@@ -1,134 +1,165 @@
 <div align="center">
 
-# `root@shota:~$ ./initialize_profile.sh`
+# `渋谷駅 // SHIBUYA STATION`
+
+### `SHOTA ENGINEERING NETWORK`
 
 ```text
-[ OK ] Loading identity module
-[ OK ] Mounting project directory
-[ OK ] Connecting frontend systems
-[ OK ] Connecting mobile systems
-[ OK ] Establishing Tokyo uplink
-[ OK ] Portfolio environment ready
+まもなく、ショータのポートフォリオが到着します。
+Shota's portfolio will arrive shortly.
 
-SYSTEM STATUS: ONLINE
+現在時刻 / CURRENT TIME
+SYSTEM ONLINE
 ```
 
-[![Portfolio](https://img.shields.io/badge/ACCESS_PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://shotacurtisruo.cc)
-[![Email](https://img.shields.io/badge/OPEN_CHANNEL-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:shotacurtisruo@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=shotacurtisruo\&style=for-the-badge\&color=00ff41\&label=TERMINAL+VISITORS)](https://github.com/shotacurtisruo)
+[![Portfolio](https://img.shields.io/badge/01_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=E60012)](https://shotacurtisruo.cc)
+[![Email](https://img.shields.io/badge/02_CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:shotacurtisruo@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=shotacurtisruo&style=for-the-badge&color=e60012&label=STATION+VISITORS)](https://github.com/shotacurtisruo)
 
 </div>
 
-```bash
-┌──(shota㉿github)-[~/profile]
-└─$ whoami
+---
 
-Shota Ruo
-Frontend & Mobile Product Engineer
-California -> Tokyo
+```text
+┌──────────────────────────── 発車標 / DEPARTURES ────────────────────────────┐
+│                                                                            │
+│  時刻     DESTINATION            PLATFORM      STATUS                      │
+│  12:04    TYPEMAXXING            WEB-01        NOW BUILDING                │
+│  12:12    WEB SYSTEMS            WEB-02        ACTIVE                      │
+│  12:18    MOBILE SYSTEMS         IOS-03        ACTIVE                      │
+│  20:27    TOKYO                  CAREER-04     SCHEDULED                    │
+│                                                                            │
+│  Please stand behind the yellow line.                                      │
+│  黄色い線の内側でお待ちください。                                           │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-┌──(shota㉿github)-[~/profile]
-└─$ cat mission.txt
+## `01 // 乗客情報 / PASSENGER INFORMATION`
 
-I build fast, polished, and interactive products
-across web, mobile, and browser-based game systems.
+```text
+NAME          Shota Ruo
+ROLE          Frontend & Mobile Product Engineer
+ORIGIN        California
+DESTINATION   Tokyo
+STATUS        Building, learning, and shipping
+SPECIALTY     Web • Mobile • Interactive Products • UI Systems
+```
 
-Current objective:
-Turn ambitious ideas into software that feels
-intuitive, responsive, and intentionally designed.
+I build fast, polished, and interactive products across web, mobile, and browser-based game systems.
+
+My goal is to turn ambitious ideas into software that feels intuitive, responsive, and intentionally designed.
+
+---
+
+## `02 // 路線図 / ENGINEERING MAP`
+
+```text
+                         SHOTA ENGINEERING NETWORK
+
+      ┌──────────────────── PRODUCT LINE ────────────────────┐
+      │                                                      │
+   [Idea] ── [UX] ── [Interface] ── [Interaction] ── [Ship]
+      │                                                      │
+      └──────────────────────────────────────────────────────┘
+                               │
+                               │ Transfer
+                               ▼
+      ┌──────────────────── FRONTEND LINE ───────────────────┐
+      │                                                      │
+ [TypeScript] ── [React] ── [Next.js] ── [APIs] ── [Vercel]
+      │                                                      │
+      └──────────────────────────────────────────────────────┘
+                               │
+                               │ Transfer
+                               ▼
+      ┌───────────────────── MOBILE LINE ────────────────────┐
+      │                                                      │
+   [Swift] ── [SwiftUI] ── [Async] ── [Storage] ── [Product]
+      │                                                      │
+      └──────────────────────────────────────────────────────┘
+                               │
+                               │ Limited Express
+                               ▼
+                       [ TOKYO 2027 ]
 ```
 
 ---
 
-## `~/current_processes`
-
-```bash
-PID   PROCESS           STATUS       DESCRIPTION
-001   typemaxxing       RUNNING      Chaotic browser-based typing game
-002   web-systems       ACTIVE       Responsive frontend experiences
-003   mobile-systems    ACTIVE       SwiftUI and mobile product flows
-004   tokyo-2027        SCHEDULED    Next engineering chapter
-```
-
-<div align="center">
-
-### `./launch_typemaxxing`
-
-[![Play Typemaxxing](https://img.shields.io/badge/PLAY_TYPEMAXXING-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://typemaxxing.vercel.app)
-
-`speed + accuracy + internet chaos`
-
-</div>
-
-```text
-PROCESS: typemaxxing
-ENVIRONMENT: production
-STATE: active development
-
-[██████████████████░░] gameplay systems
-[████████████████░░░░] interface polish
-[██████████████░░░░░░] 3D assets
-[█████████████████░░░] player experience
-```
-
----
-
-## `~/system_modules`
+## `03 // 現在運行中 / CURRENT SERVICES`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### `game.sys`
+### `G01 // GAME LINE`
 
 ```text
-STATE   : BUILDING
-TYPE    : WEB GAME
-FOCUS   : GAMEPLAY
+SERVICE     Typemaxxing
+STATUS      BUILDING
+PLATFORM    WEB-01
 ```
 
-* Gameplay loops
-* Keyboard interactions
-* Scoring systems
-* 3D asset integration
-* Sound and animation
-* Responsive UI feedback
+A browser-based typing game built around speed, accuracy, competition, and chaotic internet-inspired gameplay.
+
+**Systems**
+
+- Typing gameplay
+- Scoring logic
+- Keyboard interaction
+- 3D asset integration
+- Animation feedback
+- Responsive game UI
+
+<div align="center">
+
+[![Play Typemaxxing](https://img.shields.io/badge/PLAY_NOW-111111?style=for-the-badge&logo=vercel&logoColor=E60012)](https://typemaxxing.vercel.app)
+
+</div>
 
 </td>
 <td width="33%" valign="top">
 
-### `web.sys`
+### `W02 // WEB LINE`
 
 ```text
-STATE   : DEPLOYED
-TYPE    : FRONTEND
-FOCUS   : INTERFACES
+SERVICE     Web Systems
+STATUS      ACTIVE
+PLATFORM    WEB-02
 ```
 
-* React interfaces
-* Next.js applications
-* API integration
-* State management
-* Responsive design
-* Performance optimization
+Responsive frontend products built with reusable components, clear system architecture, and polished interactions.
+
+**Systems**
+
+- React interfaces
+- Next.js applications
+- API integration
+- State management
+- Responsive design
+- Performance optimization
 
 </td>
 <td width="33%" valign="top">
 
-### `mobile.sys`
+### `M03 // MOBILE LINE`
 
 ```text
-STATE   : ACTIVE
-TYPE    : MOBILE
-FOCUS   : PRODUCT UX
+SERVICE     Mobile Systems
+STATUS      ACTIVE
+PLATFORM    IOS-03
 ```
 
-* SwiftUI development
-* React Native applications
-* Async workflows
-* Local caching
-* Authentication
-* State persistence
+Mobile-first applications built around intuitive flows, asynchronous services, authentication, and reliable state.
+
+**Systems**
+
+- SwiftUI interfaces
+- React Native apps
+- Async workflows
+- Local caching
+- Authentication
+- State persistence
 
 </td>
 </tr>
@@ -136,60 +167,78 @@ FOCUS   : PRODUCT UX
 
 ---
 
-## `~/installed_packages`
+## `04 // 運行状況 / TYPEMAXXING STATUS`
+
+```text
+SERVICE MONITOR
+
+Application       typemaxxing
+Environment       production
+Platform          web
+Current state     active development
+
+Gameplay          [██████████████████░░] 90%
+Interface         [████████████████░░░░] 80%
+3D assets         [██████████████░░░░░░] 70%
+Player experience [█████████████████░░░] 85%
+```
+
+---
+
+## `05 // 車両設備 / INSTALLED SYSTEMS`
 
 <div align="center">
 
-### `languages`
+### `LANGUAGES`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=00FF41)
-![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge\&logo=swift\&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3\&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=sqlite\&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=E60012)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=E60012)
+![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=E60012)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E60012)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=E60012)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=E60012)
 
-### `frontend`
+### `FRONTEND SYSTEMS`
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF41)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge\&logo=tailwindcss\&logoColor=00FF41)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=00FF41)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge\&logo=fastapi\&logoColor=00FF41)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge\&logo=googlechrome\&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
 
-### `mobile`
+### `MOBILE SYSTEMS`
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge\&logo=swift\&logoColor=00FF41)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge\&logo=react\&logoColor=00FF41)
-![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge\&logo=xcode\&logoColor=00FF41)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge\&logo=sqlite\&logoColor=00FF41)
-![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge\&logo=auth0\&logoColor=00FF41)
-![Local Storage](https://img.shields.io/badge/Local_Storage-000000?style=for-the-badge\&logo=icloud\&logoColor=00FF41)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge&logo=swift&logoColor=E60012)
+![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=E60012)
+![Xcode](https://img.shields.io/badge/Xcode-111111?style=for-the-badge&logo=xcode&logoColor=E60012)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=E60012)
+![Authentication](https://img.shields.io/badge/Authentication-111111?style=for-the-badge&logo=auth0&logoColor=E60012)
+![Local Storage](https://img.shields.io/badge/Local_Storage-111111?style=for-the-badge&logo=icloud&logoColor=E60012)
 
-### `tools`
+### `TOOLS`
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=00FF41)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=00FF41)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge\&logo=anthropic\&logoColor=00FF41)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-## `~/save_file.yaml`
+## `06 // 乗車券 / ENGINEERING PASS`
 
 ```yaml
-player:
+passenger:
   name: "Shota Ruo"
   class: "Frontend & Mobile Product Engineer"
-  current_location: "California"
-  next_destination: "Tokyo"
+  origin: "California"
+  destination: "Tokyo"
 
-stats:
+travel_status:
   frontend:  "█████████░"
   mobile:    "████████░░"
   ui_ux:     "████████░░"
@@ -197,40 +246,40 @@ stats:
   games:     "███████░░░"
   curiosity: "██████████"
 
-main_quest:
+main_route:
   "Build software that turns ambitious ideas into intuitive experiences."
 
-side_quests:
+planned_stops:
   - "Make typing unnecessarily competitive"
   - "Improve every pixel"
-  - "Learn enough 3D to become dangerous"
+  - "Build more interactive products"
   - "Explore Tokyo one train line at a time"
 
-next_unlock:
+final_destination:
   "Software Engineer — Tokyo, 2027"
 ```
 
 ---
 
-## `~/activity_monitor`
+## `07 // 運行記録 / ACTIVITY LOG`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=111111&title_color=E60012&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=111111&title_color=E60012&text_color=FFFFFF" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=111111&color=FFFFFF&line=E60012&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## `~/operating_principles.txt`
+## `08 // ご利用案内 / OPERATING PRINCIPLES`
 
 ```text
 [01] Understand the person using the product
@@ -244,27 +293,28 @@ next_unlock:
 ---
 
 <details>
-<summary><strong>root@shota:~$ sudo cat /etc/shota/hidden_notes.txt</strong></summary>
+<summary><strong>駅員専用 // Open restricted station file</strong></summary>
 
 <br>
 
 ```text
-ACCESS GRANTED
+FILE: /tokyo-network/private/developer-notes.txt
+ACCESS: GRANTED
 
 The strongest products do not come from code alone.
 
-They emerge from the overlap between:
+They emerge where these lines intersect:
 
-> engineering
-> design
-> creativity
-> curiosity
-> empathy
+ENGINEERING LINE
+DESIGN LINE
+CREATIVITY LINE
+CURIOSITY LINE
+EMPATHY LINE
 
 PRIMARY DIRECTIVE
 
 Build products that are technically strong,
-visually polished,
+visually intentional,
 and genuinely enjoyable to use.
 ```
 
@@ -272,28 +322,32 @@ and genuinely enjoyable to use.
 
 ---
 
-## `~/open_port`
+## `09 // 連絡口 / CONNECTION GATE`
 
 <div align="center">
 
-```bash
-root@shota:~$ netstat --connections
+```text
+TRANSFER AVAILABLE
 
-PORT 3000   OPEN   frontend engineering
-PORT 5173   OPEN   interactive products
-PORT 8080   OPEN   mobile development
-PORT 9001   OPEN   cool and unusual projects
+Frontend engineering
+Mobile development
+Interactive products
+Browser-based games
+Creative software projects
+
+GATE STATUS: OPEN
 ```
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://shotacurtisruo.cc)
-[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:shotacurtisruo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-111111?style=for-the-badge&logo=vercel&logoColor=E60012)](https://shotacurtisruo.cc)
+
+[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:shotacurtisruo@gmail.com)
 
 ```text
-SESSION COMPLETE
+終点ではありません。
+THIS IS NOT THE FINAL STOP.
 
-Connection remains open.
-The next build is already compiling...
+次のプロジェクトを準備中です。
+THE NEXT PROJECT IS ALREADY APPROACHING.
 ```
 
 </div>
-
