@@ -1,191 +1,109 @@
 <div align="center">
 
-# `> SHOTA_OS`
-
-### `Frontend • Mobile • Product Engineering`
+# `root@shota:~$ ./initialize_profile.sh`
 
 ```text
-SYSTEM BOOT SEQUENCE
+[ OK ] Loading identity module
+[ OK ] Mounting project directory
+[ OK ] Connecting frontend systems
+[ OK ] Connecting mobile systems
+[ OK ] Establishing Tokyo uplink
+[ OK ] Portfolio environment ready
 
-[████████████████████████████████] 100%
-
-Loading profile...
-Connecting projects...
-Initializing workspace...
-
-STATUS: ONLINE
+SYSTEM STATUS: ONLINE
 ```
 
-[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
-[![Email](https://img.shields.io/badge/CONTACT_ME-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=shotacurtisruo\&style=for-the-badge\&color=blueviolet\&label=SYSTEM+VISITORS)](https://github.com/shotacurtisruo)
+[![Portfolio](https://img.shields.io/badge/ACCESS_PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://shotacurtisruo.cc)
+[![Email](https://img.shields.io/badge/OPEN_CHANNEL-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:shotacurtisruo@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=shotacurtisruo\&style=for-the-badge\&color=00ff41\&label=TERMINAL+VISITORS)](https://github.com/shotacurtisruo)
 
 </div>
 
-```text
-╭──────────────────────────── SHOTA_OS ─────────────────────────────╮
-│                                                                  │
-│  ● ONLINE        ● CONNECTED        ● READY                      │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  USER          Shota Ruo                                         │
-│  CLASS         Frontend & Mobile Product Engineer                │
-│  LOCATION      California  ───────────────────────▶  Tokyo       │
-│  SPECIALTY     Web • Mobile • UI Systems • Interactive Products  │
-│  STATUS        Building, learning, and shipping                  │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  CURRENT MISSION                                                 │
-│                                                                  │
-│  Turn ambitious ideas into interactive products that feel fast, │
-│  intuitive, polished, and carefully engineered.                 │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
-
 ```bash
-shota@portfolio:~$ whoami
+┌──(shota㉿github)-[~/profile]
+└─$ whoami
 
 Shota Ruo
 Frontend & Mobile Product Engineer
-
-shota@portfolio:~$ location
-
 California -> Tokyo
 
-shota@portfolio:~$ current-focus
+┌──(shota㉿github)-[~/profile]
+└─$ cat mission.txt
 
-- Building interactive web products
-- Developing mobile-first experiences
-- Improving UI, animation, and performance
-- Experimenting with browser-based games
+I build fast, polished, and interactive products
+across web, mobile, and browser-based game systems.
 
-shota@portfolio:~$ philosophy
-
-Build useful things.
-Polish the details.
-Ship before perfect.
+Current objective:
+Turn ambitious ideas into software that feels
+intuitive, responsive, and intentionally designed.
 ```
 
 ---
 
-## `01 // USER_PROFILE`
-
-I build interactive products across the web and mobile.
-
-My work moves through this system:
-
-```text
-┌─────────────────────┐
-│    PRODUCT IDEA     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│    SYSTEM DESIGN    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│   WEB & MOBILE UI   │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  POLISHED PRODUCT   │
-└─────────────────────┘
-```
-
-I care about clean architecture, polished interactions, responsive design, product thinking, performance, and building software that actually feels good to use.
-
----
-
-## `02 // CURRENT_SESSION`
+## `~/current_processes`
 
 ```bash
-shota@portfolio:~$ session --active
-
-[01] TYPEMAXXING
-     Building a chaotic browser-based typing game
-
-[02] WEB SYSTEMS
-     Creating fast and polished frontend experiences
-
-[03] MOBILE SYSTEMS
-     Designing intuitive applications and user flows
-
-[04] TOKYO 2027
-     Preparing for the next stage of my engineering journey
+PID   PROCESS           STATUS       DESCRIPTION
+001   typemaxxing       RUNNING      Chaotic browser-based typing game
+002   web-systems       ACTIVE       Responsive frontend experiences
+003   mobile-systems    ACTIVE       SwiftUI and mobile product flows
+004   tokyo-2027        SCHEDULED    Next engineering chapter
 ```
 
 <div align="center">
 
-### `FEATURED_PROCESS: TYPEMAXXING`
+### `./launch_typemaxxing`
 
-[![Play Typemaxxing](https://img.shields.io/badge/PLAY_TYPEMAXXING-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://typemaxxing.vercel.app)
+[![Play Typemaxxing](https://img.shields.io/badge/PLAY_TYPEMAXXING-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://typemaxxing.vercel.app)
 
-*A typing game where speed, accuracy, and internet chaos collide.*
+`speed + accuracy + internet chaos`
 
 </div>
 
 ```text
-PROCESS MONITOR
+PROCESS: typemaxxing
+ENVIRONMENT: production
+STATE: active development
 
-Application     typemaxxing
-Environment     production
-Platform        web
-State           active development
-
-Tasks:
-[██████████████████░░] Gameplay systems
-[████████████████░░░░] Interface polish
+[██████████████████░░] gameplay systems
+[████████████████░░░░] interface polish
 [██████████████░░░░░░] 3D assets
-[█████████████████░░░] Player experience
+[█████████████████░░░] player experience
 ```
 
 ---
 
-## `03 // SYSTEM_MODULES`
+## `~/system_modules`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### `GAME_MODULE`
+### `game.sys`
 
 ```text
-STATUS    BUILDING
-TYPE      WEB GAME
-FOCUS     GAMEPLAY
+STATE   : BUILDING
+TYPE    : WEB GAME
+FOCUS   : GAMEPLAY
 ```
 
-Creating browser-based game experiences with responsive controls, animated environments, and satisfying feedback.
-
-**Processes**
-
 * Gameplay loops
-* Keyboard interaction
+* Keyboard interactions
 * Scoring systems
 * 3D asset integration
 * Sound and animation
-* Responsive game UI
+* Responsive UI feedback
 
 </td>
 <td width="33%" valign="top">
 
-### `WEB_MODULE`
+### `web.sys`
 
 ```text
-STATUS    DEPLOYED
-TYPE      FRONTEND
-FOCUS     INTERFACES
+STATE   : DEPLOYED
+TYPE    : FRONTEND
+FOCUS   : INTERFACES
 ```
-
-Building responsive web products with scalable components, smooth interfaces, and production-focused architecture.
-
-**Processes**
 
 * React interfaces
 * Next.js applications
@@ -197,20 +115,16 @@ Building responsive web products with scalable components, smooth interfaces, an
 </td>
 <td width="33%" valign="top">
 
-### `MOBILE_MODULE`
+### `mobile.sys`
 
 ```text
-STATUS    ACTIVE
-TYPE      MOBILE
-FOCUS     PRODUCT UX
+STATE   : ACTIVE
+TYPE    : MOBILE
+FOCUS   : PRODUCT UX
 ```
 
-Designing mobile-first products with clean flows, asynchronous services, and reliable state management.
-
-**Processes**
-
-* SwiftUI interfaces
-* React Native apps
+* SwiftUI development
+* React Native applications
 * Async workflows
 * Local caching
 * Authentication
@@ -222,51 +136,51 @@ Designing mobile-first products with clean flows, asynchronous services, and rel
 
 ---
 
-## `04 // INSTALLED_PACKAGES`
+## `~/installed_packages`
 
 <div align="center">
 
-### `LANGUAGES`
+### `languages`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=8B5CF6)
-![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=8B5CF6)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=8B5CF6)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=8B5CF6)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=sqlite\&logoColor=8B5CF6)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=00FF41)
+![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge\&logo=swift\&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3\&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=sqlite\&logoColor=00FF41)
 
-### `FRONTEND`
+### `frontend`
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=22D3EE)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=22D3EE)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge\&logo=threedotjs\&logoColor=22D3EE)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge\&logo=fastapi\&logoColor=22D3EE)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-111111?style=for-the-badge\&logo=googlechrome\&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF41)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge\&logo=tailwindcss\&logoColor=00FF41)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=00FF41)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge\&logo=fastapi\&logoColor=00FF41)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge\&logo=googlechrome\&logoColor=00FF41)
 
-### `MOBILE`
+### `mobile`
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge\&logo=swift\&logoColor=3B82F6)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge\&logo=react\&logoColor=3B82F6)
-![Xcode](https://img.shields.io/badge/Xcode-111111?style=for-the-badge\&logo=xcode\&logoColor=3B82F6)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=3B82F6)
-![Authentication](https://img.shields.io/badge/Authentication-111111?style=for-the-badge\&logo=auth0\&logoColor=3B82F6)
-![Local Storage](https://img.shields.io/badge/Local_Storage-111111?style=for-the-badge\&logo=icloud\&logoColor=3B82F6)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge\&logo=swift\&logoColor=00FF41)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge\&logo=react\&logoColor=00FF41)
+![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge\&logo=xcode\&logoColor=00FF41)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge\&logo=sqlite\&logoColor=00FF41)
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge\&logo=auth0\&logoColor=00FF41)
+![Local Storage](https://img.shields.io/badge/Local_Storage-000000?style=for-the-badge\&logo=icloud\&logoColor=00FF41)
 
-### `TOOLS`
+### `tools`
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=A855F7)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visualstudiocode\&logoColor=A855F7)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=A855F7)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge\&logo=cursor\&logoColor=A855F7)
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge\&logo=anthropic\&logoColor=A855F7)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma\&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=00FF41)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge\&logo=anthropic\&logoColor=00FF41)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=00FF41)
 
 </div>
 
 ---
 
-## `05 // SAVE_FILE`
+## `~/save_file.yaml`
 
 ```yaml
 player:
@@ -276,12 +190,12 @@ player:
   next_destination: "Tokyo"
 
 stats:
-  frontend_engineering:  "█████████░"
-  mobile_engineering:    "████████░░"
-  ui_ux:                 "████████░░"
-  product_engineering:   "████████░░"
-  game_development:      "███████░░░"
-  curiosity:             "██████████"
+  frontend:  "█████████░"
+  mobile:    "████████░░"
+  ui_ux:     "████████░░"
+  product:   "████████░░"
+  games:     "███████░░░"
+  curiosity: "██████████"
 
 main_quest:
   "Build software that turns ambitious ideas into intuitive experiences."
@@ -298,29 +212,27 @@ next_unlock:
 
 ---
 
-## `06 // ACTIVITY_MONITOR`
+## `~/activity_monitor`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" alt="Shota's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Shota's most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=0D1117&color=A855F7&line=3B82F6&point=22D3EE&area=true&hide_border=true" alt="Shota's GitHub activity graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## `07 // OPERATING_PRINCIPLES`
+## `~/operating_principles.txt`
 
 ```text
-SYSTEM RULES
-
 [01] Understand the person using the product
 [02] Make the idea simple before making it complex
 [03] Build the smallest useful version
@@ -332,15 +244,14 @@ SYSTEM RULES
 ---
 
 <details>
-<summary><strong>🔒 Open hidden system file</strong></summary>
+<summary><strong>root@shota:~$ sudo cat /etc/shota/hidden_notes.txt</strong></summary>
 
 <br>
 
 ```text
-FILE: /system/private/developer-notes.txt
-ACCESS: GRANTED
+ACCESS GRANTED
 
-The best products do not come from code alone.
+The strongest products do not come from code alone.
 
 They emerge from the overlap between:
 
@@ -361,37 +272,27 @@ and genuinely enjoyable to use.
 
 ---
 
-## `08 // OPEN_PORT`
+## `~/open_port`
 
 <div align="center">
 
 ```bash
-shota@portfolio:~$ connect --interest
+root@shota:~$ netstat --connections
 
-frontend engineering
-mobile development
-interactive product design
-browser-based games
-cool and unusual projects
-
-shota@portfolio:~$ connection-status
-
-PORT 3000: OPEN
-COLLABORATION: AVAILABLE
-MESSAGES: ACCEPTING
+PORT 3000   OPEN   frontend engineering
+PORT 5173   OPEN   interactive products
+PORT 8080   OPEN   mobile development
+PORT 9001   OPEN   cool and unusual projects
 ```
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
-[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
-
-<br>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://shotacurtisruo.cc)
+[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:shotacurtisruo@gmail.com)
 
 ```text
 SESSION COMPLETE
 
-Thank you for visiting SHOTA_OS.
-
-The next build is already loading...
+Connection remains open.
+The next build is already compiling...
 ```
 
 </div>
