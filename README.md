@@ -4,13 +4,14 @@
 
 ### `SHOTA ENGINEERING NETWORK`
 
-```text
-まもなく、ショータのポートフォリオが到着します。
-Shota's portfolio will arrive shortly.
+<a href="https://shotacurtisruo.cc">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=E60012&center=true&vCenter=true&repeat=true&width=850&height=80&lines=%E3%81%BE%E3%82%82%E3%81%AA%E3%81%8F%E3%80%81%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%81%8C%E5%88%B0%E7%9D%80%E3%81%97%E3%81%BE%E3%81%99%E3%80%82;Shota's+portfolio+will+arrive+shortly.;Next+arrival%3A+TYPEMAXXING;Destination%3A+TOKYO+2027;SHOTA+ENGINEERING+NETWORK+%2F%2F+ONLINE"
+    alt="Animated Tokyo station introduction"
+  />
+</a>
 
-現在時刻 / CURRENT TIME
-SYSTEM ONLINE
-```
+<br>
 
 [![Portfolio](https://img.shields.io/badge/01_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=E60012)](https://shotacurtisruo.cc)
 [![Email](https://img.shields.io/badge/02_CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:shotacurtisruo@gmail.com)
@@ -23,7 +24,7 @@ SYSTEM ONLINE
 ```text
 ┌──────────────────────────── 発車標 / DEPARTURES ────────────────────────────┐
 │                                                                            │
-│  時刻     DESTINATION            PLATFORM      STATUS                      │
+│  TIME     DESTINATION            PLATFORM      STATUS                      │
 │  12:04    TYPEMAXXING            WEB-01        NOW BUILDING                │
 │  12:12    WEB SYSTEMS            WEB-02        ACTIVE                      │
 │  12:18    MOBILE SYSTEMS         IOS-03        ACTIVE                      │
@@ -34,6 +35,15 @@ SYSTEM ONLINE
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=600&color=FFFFFF&background=111111&center=true&vCenter=true&repeat=true&width=800&height=45&lines=TYPEMAXXING+%E2%80%94+NOW+APPROACHING+PLATFORM+01;WEB+SYSTEMS+%E2%80%94+OPERATING+NORMALLY;MOBILE+SYSTEMS+%E2%80%94+SERVICE+ACTIVE;TOKYO+2027+%E2%80%94+DEPARTURE+SCHEDULED"
+  alt="Animated departure information"
+/>
+
+</div>
 
 ## `01 // 乗客情報 / PASSENGER INFORMATION`
 
@@ -183,6 +193,15 @@ Interface         [████████████████░░░░]
 Player experience [█████████████████░░░] 85%
 ```
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1100&pause=350&color=E60012&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%5BLOADING%5D+Gameplay+systems...;%5BLOADING%5D+Interface+polish...;%5BLOADING%5D+3D+assets...;%5BREADY%5D+Player+experience+online."
+  alt="Animated development status"
+/>
+
+</div>
+
 ---
 
 ## `05 // 車両設備 / INSTALLED SYSTEMS`
@@ -265,15 +284,27 @@ final_destination:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=111111&title_color=E60012&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=111111&title_color=E60012&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github"
+  alt="GitHub statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=111111&title_color=E60012&text_color=FFFFFF" alt="Top languages" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=111111&title_color=E60012&text_color=FFFFFF"
+  alt="Top languages"
+/>
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=111111&color=FFFFFF&line=E60012&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+<img
+  width="90%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=111111&color=FFFFFF&line=E60012&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub activity graph"
+/>
 
 </div>
 
@@ -326,28 +357,22 @@ and genuinely enjoyable to use.
 
 <div align="center">
 
-```text
-TRANSFER AVAILABLE
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=750&color=E60012&center=true&vCenter=true&repeat=true&width=760&height=55&lines=TRANSFER+AVAILABLE;Frontend+Engineering;Mobile+Development;Interactive+Products;Creative+Software+Projects;GATE+STATUS%3A+OPEN"
+  alt="Animated connection gate"
+/>
 
-Frontend engineering
-Mobile development
-Interactive products
-Browser-based games
-Creative software projects
-
-GATE STATUS: OPEN
-```
+<br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-111111?style=for-the-badge&logo=vercel&logoColor=E60012)](https://shotacurtisruo.cc)
 
 [![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=E60012)](mailto:shotacurtisruo@gmail.com)
 
-```text
-終点ではありません。
-THIS IS NOT THE FINAL STOP.
+<br>
 
-次のプロジェクトを準備中です。
-THE NEXT PROJECT IS ALREADY APPROACHING.
-```
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2700&pause=1000&color=FFFFFF&background=111111&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%E7%B5%82%E7%82%B9%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82;THIS+IS+NOT+THE+FINAL+STOP.;%E6%AC%A1%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E6%BA%96%E5%82%99%E4%B8%AD%E3%81%A7%E3%81%99%E3%80%82;THE+NEXT+PROJECT+IS+ALREADY+APPROACHING."
+  alt="Animated closing message"
+/>
 
 </div>
