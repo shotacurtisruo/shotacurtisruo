@@ -1,147 +1,191 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0066FF,100:00D4FF&height=220&section=header&text=SHOTA_OS&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20%C3%97%20Engineering%20%C3%97%20Product&descAlignY=60&animation=fadeIn" />
+# `> SHOTA_OS`
 
-<a href="https://shotacurtisruo.cc">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=9F6BFF&center=true&vCenter=true&repeat=true&width=800&height=60&lines=%3E+Initializing+Shota_OS...;%3E+Statistical+Data+Science;%3E+Frontend+%26+Mobile+Systems;%3E+Building+from+California+to+Tokyo;%3E+Click+to+enter+my+portfolio" alt="Animated introduction" />
-</a>
+### `Frontend • Mobile • Product Engineering`
 
-<br/>
+```text
+SYSTEM BOOT SEQUENCE
 
-[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-7F00FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
-[![Email](https://img.shields.io/badge/CONTACT_ME-0066FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=shotacurtisruo\&style=for-the-badge\&color=blueviolet\&label=SYSTEM+VISITORS)](https://github.com/shotacurtisruo)
+[████████████████████████████████] 100%
+
+Loading profile...
+Connecting projects...
+Initializing workspace...
+
+STATUS: ONLINE
+```
+
+[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
+[![Email](https://img.shields.io/badge/CONTACT_ME-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=shotacurtisruo\&style=for-the-badge\&color=blueviolet\&label=SYSTEM+VISITORS)](https://github.com/shotacurtisruo)
 
 </div>
 
----
-
 ```text
-╭────────────────────────────── SHOTA_OS ──────────────────────────────╮
-│                                                                      │
-│  USER          Shota Ruo                                             │
-│  CLASS         Data-Driven Product Engineer                          │
-│  LOCATION      California  ──────────────────────────────▶  Tokyo    │
-│  SPECIALTY     Statistical Systems · Web · Mobile · Visualization    │
-│  STATUS        Building, learning, and shipping                       │
-│                                                                      │
-│  CURRENT MISSION                                                     │
-│  Transform data, ideas, and human problems into products that feel   │
-│  fast, intuitive, and thoughtfully engineered.                       │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────── SHOTA_OS ─────────────────────────────╮
+│                                                                  │
+│  ● ONLINE        ● CONNECTED        ● READY                      │
+│                                                                  │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  USER          Shota Ruo                                         │
+│  CLASS         Frontend & Mobile Product Engineer                │
+│  LOCATION      California  ───────────────────────▶  Tokyo       │
+│  SPECIALTY     Web • Mobile • UI Systems • Interactive Products  │
+│  STATUS        Building, learning, and shipping                  │
+│                                                                  │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  CURRENT MISSION                                                 │
+│                                                                  │
+│  Turn ambitious ideas into interactive products that feel fast, │
+│  intuitive, polished, and carefully engineered.                 │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 ```
-
-## `01 // IDENTITY`
-
-I build data-driven systems that connect **statistical thinking** with **production-ready software**.
-
-My work lives at the intersection of:
-
-```text
-                    ┌─────────────────────┐
-                    │  HUMAN EXPERIENCE   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-┌──────────────────┐    ┌───────────────┐    ┌──────────────────┐
-│ STATISTICAL DATA │───▶│ PRODUCT LOGIC │───▶│ WEB & MOBILE UI  │
-└──────────────────┘    └───────────────┘    └──────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ DEPLOYED SOFTWARE   │
-                    └─────────────────────┘
-```
-
-I care about clean architecture, thoughtful interaction design, performance, reproducibility, and actually shipping the product.
-
----
-
-## `02 // ACTIVE MISSION`
-
-<div align="center">
-
-| System                     | Current Objective                                              |
-| :------------------------- | :------------------------------------------------------------- |
-| 🎮 **Typemaxxing**         | Building a chaotic 3D typing game with responsive interactions |
-| 📊 **Data Systems**        | Exploring modeling, experimentation, and visual analytics      |
-| 📱 **Product Engineering** | Designing fast, intuitive web and mobile experiences           |
-| 🗼 **Tokyo 2027**          | Preparing for the next stage of my engineering journey         |
-
-</div>
 
 ```bash
-$ shota current-project
+shota@portfolio:~$ whoami
 
-> Loading Typemaxxing...
-> Connecting gameplay systems...
-> Improving 3D assets...
-> Optimizing player experience...
-> Status: BUILDING
+Shota Ruo
+Frontend & Mobile Product Engineer
+
+shota@portfolio:~$ location
+
+California -> Tokyo
+
+shota@portfolio:~$ current-focus
+
+- Building interactive web products
+- Developing mobile-first experiences
+- Improving UI, animation, and performance
+- Experimenting with browser-based games
+
+shota@portfolio:~$ philosophy
+
+Build useful things.
+Polish the details.
+Ship before perfect.
+```
+
+---
+
+## `01 // USER_PROFILE`
+
+I build interactive products across the web and mobile.
+
+My work moves through this system:
+
+```text
+┌─────────────────────┐
+│    PRODUCT IDEA     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│    SYSTEM DESIGN    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   WEB & MOBILE UI   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│  POLISHED PRODUCT   │
+└─────────────────────┘
+```
+
+I care about clean architecture, polished interactions, responsive design, product thinking, performance, and building software that actually feels good to use.
+
+---
+
+## `02 // CURRENT_SESSION`
+
+```bash
+shota@portfolio:~$ session --active
+
+[01] TYPEMAXXING
+     Building a chaotic browser-based typing game
+
+[02] WEB SYSTEMS
+     Creating fast and polished frontend experiences
+
+[03] MOBILE SYSTEMS
+     Designing intuitive applications and user flows
+
+[04] TOKYO 2027
+     Preparing for the next stage of my engineering journey
 ```
 
 <div align="center">
 
-### 🎮 Featured Build
+### `FEATURED_PROCESS: TYPEMAXXING`
 
-[![Typemaxxing](https://img.shields.io/badge/PLAY_TYPEMAXXING-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://typemaxxing.vercel.app)
+[![Play Typemaxxing](https://img.shields.io/badge/PLAY_TYPEMAXXING-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://typemaxxing.vercel.app)
 
 *A typing game where speed, accuracy, and internet chaos collide.*
 
 </div>
 
+```text
+PROCESS MONITOR
+
+Application     typemaxxing
+Environment     production
+Platform        web
+State           active development
+
+Tasks:
+[██████████████████░░] Gameplay systems
+[████████████████░░░░] Interface polish
+[██████████████░░░░░░] 3D assets
+[█████████████████░░░] Player experience
+```
+
 ---
 
-## `03 // PROJECT WORLDS`
+## `03 // SYSTEM_MODULES`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 📊 DATA LAB
+### `GAME_MODULE`
 
 ```text
-STATUS
-● ONLINE
-
-FOCUS
-Modeling
-Inference
-Experiments
-Visualization
+STATUS    BUILDING
+TYPE      WEB GAME
+FOCUS     GAMEPLAY
 ```
 
-Building reproducible analytical systems using statistical modeling, diagnostics, and clear visual communication.
+Creating browser-based game experiences with responsive controls, animated environments, and satisfying feedback.
 
-**Core systems**
+**Processes**
 
-* Regression pipelines
-* Classification workflows
-* Cross-validation
-* Statistical diagnostics
-* Data visualization
-* Reproducible analysis
+* Gameplay loops
+* Keyboard interaction
+* Scoring systems
+* 3D asset integration
+* Sound and animation
+* Responsive game UI
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 WEB DISTRICT
+### `WEB_MODULE`
 
 ```text
-STATUS
-● DEPLOYED
-
-FOCUS
-Interfaces
-Architecture
-Performance
-APIs
+STATUS    DEPLOYED
+TYPE      FRONTEND
+FOCUS     INTERFACES
 ```
 
-Creating responsive web experiences with scalable components, clear state management, and production-focused architecture.
+Building responsive web products with scalable components, smooth interfaces, and production-focused architecture.
 
-**Core systems**
+**Processes**
 
 * React interfaces
 * Next.js applications
@@ -153,22 +197,17 @@ Creating responsive web experiences with scalable components, clear state manage
 </td>
 <td width="33%" valign="top">
 
-### 📱 MOBILE BAY
+### `MOBILE_MODULE`
 
 ```text
-STATUS
-● SYNCHRONIZED
-
-FOCUS
-SwiftUI
-Mobile UX
-Async Data
-Persistence
+STATUS    ACTIVE
+TYPE      MOBILE
+FOCUS     PRODUCT UX
 ```
 
-Engineering mobile-first products with clean flows, asynchronous services, local persistence, and thoughtful user experiences.
+Designing mobile-first products with clean flows, asynchronous services, and reliable state management.
 
-**Core systems**
+**Processes**
 
 * SwiftUI interfaces
 * React Native apps
@@ -183,69 +222,69 @@ Engineering mobile-first products with clean flows, asynchronous services, local
 
 ---
 
-## `04 // TECH CONSTELLATION`
+## `04 // INSTALLED_PACKAGES`
 
 <div align="center">
 
-### Languages
+### `LANGUAGES`
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=9F6BFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=9F6BFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=9F6BFF)
-![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=9F6BFF)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=9F6BFF)
-![R](https://img.shields.io/badge/R-111111?style=for-the-badge\&logo=r\&logoColor=9F6BFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=8B5CF6)
+![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=8B5CF6)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=8B5CF6)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=8B5CF6)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=sqlite\&logoColor=8B5CF6)
 
-### Product Engineering
+### `FRONTEND`
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=00D4FF)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=00D4FF)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge\&logo=swift\&logoColor=00D4FF)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge\&logo=react\&logoColor=00D4FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=00D4FF)
-![REST API](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge\&logo=fastapi\&logoColor=00D4FF)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=22D3EE)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=22D3EE)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge\&logo=threedotjs\&logoColor=22D3EE)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge\&logo=fastapi\&logoColor=22D3EE)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-111111?style=for-the-badge\&logo=googlechrome\&logoColor=22D3EE)
 
-### Data and Systems
+### `MOBILE`
 
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=0066FF)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy\&logoColor=0066FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge\&logo=python\&logoColor=0066FF)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=0066FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge\&logo=jupyter\&logoColor=0066FF)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=0066FF)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge\&logo=swift\&logoColor=3B82F6)
+![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge\&logo=react\&logoColor=3B82F6)
+![Xcode](https://img.shields.io/badge/Xcode-111111?style=for-the-badge\&logo=xcode\&logoColor=3B82F6)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=3B82F6)
+![Authentication](https://img.shields.io/badge/Authentication-111111?style=for-the-badge\&logo=auth0\&logoColor=3B82F6)
+![Local Storage](https://img.shields.io/badge/Local_Storage-111111?style=for-the-badge\&logo=icloud\&logoColor=3B82F6)
 
-### Engineering Tools
+### `TOOLS`
 
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visualstudiocode\&logoColor=7F00FF)
-![Xcode](https://img.shields.io/badge/Xcode-111111?style=for-the-badge\&logo=xcode\&logoColor=7F00FF)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=7F00FF)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge\&logo=cursor\&logoColor=7F00FF)
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge\&logo=anthropic\&logoColor=7F00FF)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=A855F7)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge\&logo=visualstudiocode\&logoColor=A855F7)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=A855F7)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge\&logo=cursor\&logoColor=A855F7)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge\&logo=anthropic\&logoColor=A855F7)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma\&logoColor=A855F7)
 
 </div>
 
 ---
 
-## `05 // CHARACTER SAVE FILE`
+## `05 // SAVE_FILE`
 
 ```yaml
 player:
   name: "Shota Ruo"
-  role: "Data-Driven Product Engineer"
-  education: "Statistical Data Science"
+  class: "Frontend & Mobile Product Engineer"
   current_location: "California"
   next_destination: "Tokyo"
 
-attributes:
-  statistical_thinking:  █████████░
-  frontend_engineering:  █████████░
-  mobile_engineering:    ████████░░
-  product_design:        ████████░░
-  shipping_velocity:     ████████░░
-  curiosity:             ██████████
+stats:
+  frontend_engineering:  "█████████░"
+  mobile_engineering:    "████████░░"
+  ui_ux:                 "████████░░"
+  product_engineering:   "████████░░"
+  game_development:      "███████░░░"
+  curiosity:             "██████████"
 
 main_quest:
-  "Build software that turns complex systems into intuitive experiences."
+  "Build software that turns ambitious ideas into intuitive experiences."
 
 side_quests:
   - "Make typing unnecessarily competitive"
@@ -259,86 +298,101 @@ next_unlock:
 
 ---
 
-## `06 // DEVELOPMENT SIGNAL`
+## `06 // ACTIVITY_MONITOR`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9F6BFF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="Shota's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shotacurtisruo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" alt="Shota's GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=0D1117&title_color=9F6BFF&text_color=FFFFFF" alt="Shota's most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotacurtisruo&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Shota's most used languages" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=0D1117&color=9F6BFF&line=0066FF&point=00D4FF&area=true&hide_border=true" alt="Shota's contribution activity graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shotacurtisruo&bg_color=0D1117&color=A855F7&line=3B82F6&point=22D3EE&area=true&hide_border=true" alt="Shota's GitHub activity graph" />
 
 </div>
 
 ---
 
-## `07 // SYSTEM PHILOSOPHY`
+## `07 // OPERATING_PRINCIPLES`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  01. Understand the human problem.                          │
-│  02. Model the system clearly.                              │
-│  03. Build the smallest useful version.                     │
-│  04. Measure what actually happens.                         │
-│  05. Refine the experience.                                 │
-│  06. Ship before perfect becomes another form of waiting.   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+SYSTEM RULES
+
+[01] Understand the person using the product
+[02] Make the idea simple before making it complex
+[03] Build the smallest useful version
+[04] Make every interaction feel intentional
+[05] Refine through real feedback
+[06] Ship before perfection becomes procrastination
 ```
 
 ---
 
 <details>
-<summary><strong>🔒 Open classified developer file</strong></summary>
+<summary><strong>🔒 Open hidden system file</strong></summary>
 
-<br/>
+<br>
 
 ```text
-CLASSIFIED FILE // SR-2027
+FILE: /system/private/developer-notes.txt
+ACCESS: GRANTED
 
-Observation:
-The strongest products are rarely created by technical ability alone.
+The best products do not come from code alone.
 
-They emerge where engineering, data, design, and empathy overlap.
+They emerge from the overlap between:
 
-Operating principle:
-Build systems that are technically sound,
-visually intentional,
-and genuinely useful to the person on the other side.
+> engineering
+> design
+> creativity
+> curiosity
+> empathy
+
+PRIMARY DIRECTIVE
+
+Build products that are technically strong,
+visually polished,
+and genuinely enjoyable to use.
 ```
 
 </details>
 
 ---
 
-## `08 // OPEN CHANNEL`
+## `08 // OPEN_PORT`
 
 <div align="center">
 
-```text
-Transmission channel established.
+```bash
+shota@portfolio:~$ connect --interest
 
-Interested in software engineering, data systems,
-product development, or building something unusual?
+frontend engineering
+mobile development
+interactive product design
+browser-based games
+cool and unusual projects
 
-Send a signal.
+shota@portfolio:~$ connection-status
+
+PORT 3000: OPEN
+COLLABORATION: AVAILABLE
+MESSAGES: ACCEPTING
 ```
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-7F00FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shotacurtisruo.cc-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shotacurtisruo.cc)
+[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
 
-[![Email](https://img.shields.io/badge/EMAIL-shotacurtisruo%40gmail.com-0066FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shotacurtisruo@gmail.com)
+<br>
 
-<br/>
+```text
+SESSION COMPLETE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+Shota_OS.;The+next+build+is+already+loading..." alt="Closing animation" />
+Thank you for visiting SHOTA_OS.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0066FF,100:7F00FF&height=120&section=footer" />
+The next build is already loading...
+```
 
 </div>
 
